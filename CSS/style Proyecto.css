@@ -1,0 +1,17 @@
+.portafolio_proyectos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portafolio_proyectos_iconos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem 0rem 2rem 0rem;
+}
+
+.portafolio_proyectos_video {
+    width: 20%;
+    height: 45%;
+    margin: 1rem;
+}

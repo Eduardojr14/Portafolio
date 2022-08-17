@@ -1,0 +1,17 @@
+    .portafolio_skills {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .portafolio_skills_iconos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 1rem 0rem;
+    }
+    
+    .portafolio_skills_imagen {
+        width: 8%;
+        height: 30%;
+        margin: 1rem;
+    }

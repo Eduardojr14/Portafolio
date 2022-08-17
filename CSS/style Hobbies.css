@@ -1,0 +1,20 @@
+.portafolio_hobbies {
+    background-color: #ffebcd38;
+    display: flex;
+    flex-wrap: wrap;
+    border: solid #ffffff;
+    border-radius: 15px;
+}
+
+.portafolio_hobbies_iconos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem 0rem;
+}
+
+.portafolio_hobbies_imagen {
+    width: 8%;
+    height: 70%;
+    margin: 2rem;
+}

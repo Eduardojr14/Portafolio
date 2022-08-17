@@ -1,0 +1,4 @@
+CREATE database PORTAFOLIO;
+USE PORTAFOLIO;
+
+

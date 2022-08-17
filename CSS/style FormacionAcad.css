@@ -1,0 +1,22 @@
+.portafolio_formacionAcad {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portafolio_formacionAcad_iconos {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.portafolio_formacionAcad_imagen {
+    width: 15%;
+    height: 70%;
+    margin: 2rem;
+}
+
+.portafolio_formacionAcad-texto {
+    color: #ffffff;
+    font-size: 2rem;
+}

@@ -1,0 +1,30 @@
+a:link,
+a:visited,
+a:active {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.portafolio_formacionComp {
+    background-color: #ffebcd38;
+    border: solid #ffffff;
+    border-radius: 15px;
+}
+
+.portafolio_formacionComp_iconos {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.portafolio_formacionComp_imagen {
+    width: 10%;
+    height: 70%;
+    margin: 2rem;
+}
+
+.portafolio_formacionComp_li {
+    font-size: 1.2rem;
+    color: #ffffff;
+}

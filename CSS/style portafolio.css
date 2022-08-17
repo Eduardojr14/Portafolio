@@ -1,0 +1,46 @@
+.portafolio {
+    background-color: #06060e;
+    display: grid;
+    grid-template-areas: "encabezado" "contenido" "rodapie";
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+}
+
+.portafolio_barra_navegacion {
+    border: solid #ffffff;
+    border-radius: 15px;
+    margin: 1rem;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+.barra_navegacion {
+    background-color: #1d28cc;
+}
+
+.barra_navegacion:hover {
+    background-color: #000000;
+    cursor: pointer;
+}
+
+.titulo {
+    color: #ffffff;
+    font-size: 3rem;
+    text-align: left;
+    margin: 1.5rem;
+}
+
+.encabezado {}
+
+.contenido {
+    grid-area: contenido;
+    padding: 0 2rem;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    height: calc(100vh-20px);
+}
+
+.rodapie {}
