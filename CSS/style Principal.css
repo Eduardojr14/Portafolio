@@ -33,7 +33,7 @@
     .titulo_ppal {
         color: #ffffff;
         font-size: 5rem;
-        font-family: "Pacifico", "Kaushan Script", Futura, "Roboto", "Trebuchet MS", Helvetica, sans-serif;
+        font-family: 'DynaPuff', cursive;
         transform-style: preserve-3d;
         animation: ಠ_ಠ 5s infinite alternate ease-in-out -7.5s;
         animation-fill-mode: forwards;
